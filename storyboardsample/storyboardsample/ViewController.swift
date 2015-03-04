@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  gitSample
+//  storyboardsample
 //
 //  Created by 奥山博史 on 2015/03/04.
 //  Copyright (c) 2015年 奥山博史. All rights reserved.
@@ -9,9 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-    @IBOutlet weak var showButton: UIButton!
 
-    @IBOutlet weak var showLabel: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
@@ -22,9 +20,6 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
-    @IBAction func showToruko(sender: AnyObject) {
-        self.showLabel.text = "とるこ!!!"
-    }
 
 }
 
