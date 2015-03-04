@@ -6,7 +6,7 @@
 //  Copyright (c) 2015年 奥山博史. All rights reserved.
 //
 
-//たくみ
+//たくみkk
 
 import UIKit
 
