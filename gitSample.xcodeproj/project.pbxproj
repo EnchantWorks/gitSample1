@@ -13,6 +13,7 @@
 		F8403D501AA6A84F00074180 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F8403D4F1AA6A84F00074180 /* Images.xcassets */; };
 		F8403D531AA6A84F00074180 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = F8403D511AA6A84F00074180 /* LaunchScreen.xib */; };
 		F8403D5F1AA6A84F00074180 /* gitSampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8403D5E1AA6A84F00074180 /* gitSampleTests.swift */; };
+		F8A8C87E1AA6AF6C0045A591 /* Storyboard_1.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F8A8C87D1AA6AF6C0045A591 /* Storyboard_1.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		F8403D581AA6A84F00074180 /* gitSampleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = gitSampleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F8403D5D1AA6A84F00074180 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F8403D5E1AA6A84F00074180 /* gitSampleTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gitSampleTests.swift; sourceTree = "<group>"; };
+		F8A8C87D1AA6AF6C0045A591 /* Storyboard_1.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Storyboard_1.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				F8403D481AA6A84F00074180 /* AppDelegate.swift */,
 				F8403D4A1AA6A84F00074180 /* ViewController.swift */,
 				F8403D4C1AA6A84F00074180 /* Main.storyboard */,
+				F8A8C87D1AA6AF6C0045A591 /* Storyboard_1.storyboard */,
 				F8403D4F1AA6A84F00074180 /* Images.xcassets */,
 				F8403D511AA6A84F00074180 /* LaunchScreen.xib */,
 				F8403D461AA6A84F00074180 /* Supporting Files */,
@@ -195,6 +198,7 @@
 				F8403D4E1AA6A84F00074180 /* Main.storyboard in Resources */,
 				F8403D531AA6A84F00074180 /* LaunchScreen.xib in Resources */,
 				F8403D501AA6A84F00074180 /* Images.xcassets in Resources */,
+				F8A8C87E1AA6AF6C0045A591 /* Storyboard_1.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -407,6 +411,7 @@
 				F8403D641AA6A84F00074180 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F8403D651AA6A84F00074180 /* Build configuration list for PBXNativeTarget "gitSampleTests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +420,7 @@
 				F8403D671AA6A84F00074180 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
