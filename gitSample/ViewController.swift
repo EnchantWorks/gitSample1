@@ -14,6 +14,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var showLabel: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
+        self
         // Do any additional setup after loading the view, typically from a nib.
     }
     
