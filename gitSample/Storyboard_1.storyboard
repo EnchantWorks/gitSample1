@@ -58,10 +58,26 @@
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
+                    <navigationItem key="navigationItem" id="KgR-Wl-3Es"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="9vR-iO-Yck" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="375" y="412"/>
+            <point key="canvasLocation" x="671" y="475"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="Fo7-vn-9lr">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="ZoG-dH-dgZ" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="Cg6-Fp-TRh">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="0Xt-HI-APJ" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="183" y="937"/>
         </scene>
     </scenes>
 </document>

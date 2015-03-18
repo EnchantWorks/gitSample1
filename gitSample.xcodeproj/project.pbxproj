@@ -14,6 +14,7 @@
 		F8403D531AA6A84F00074180 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = F8403D511AA6A84F00074180 /* LaunchScreen.xib */; };
 		F8403D5F1AA6A84F00074180 /* gitSampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8403D5E1AA6A84F00074180 /* gitSampleTests.swift */; };
 		F8A8C87E1AA6AF6C0045A591 /* Storyboard_1.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F8A8C87D1AA6AF6C0045A591 /* Storyboard_1.storyboard */; };
+		F8A8C8801AA6B8720045A591 /* storyboard_1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8A8C87F1AA6B8720045A591 /* storyboard_1ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		F8403D5D1AA6A84F00074180 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F8403D5E1AA6A84F00074180 /* gitSampleTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gitSampleTests.swift; sourceTree = "<group>"; };
 		F8A8C87D1AA6AF6C0045A591 /* Storyboard_1.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Storyboard_1.storyboard; sourceTree = "<group>"; };
+		F8A8C87F1AA6B8720045A591 /* storyboard_1ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = storyboard_1ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 			children = (
 				F8403D481AA6A84F00074180 /* AppDelegate.swift */,
 				F8403D4A1AA6A84F00074180 /* ViewController.swift */,
+				F8A8C87F1AA6B8720045A591 /* storyboard_1ViewController.swift */,
 				F8403D4C1AA6A84F00074180 /* Main.storyboard */,
 				F8A8C87D1AA6AF6C0045A591 /* Storyboard_1.storyboard */,
 				F8403D4F1AA6A84F00074180 /* Images.xcassets */,
@@ -217,6 +220,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F8403D4B1AA6A84F00074180 /* ViewController.swift in Sources */,
+				F8A8C8801AA6B8720045A591 /* storyboard_1ViewController.swift in Sources */,
 				F8403D491AA6A84F00074180 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
